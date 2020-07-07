@@ -4,6 +4,8 @@ React project that uses the [breaking bad api](https://breakingbadapi.com/docume
 
 [Click here for youtube](https://www.youtube.com/watch?v=YaioUnMw0mo)
 
+[Click here for Live Demo](https://mahendra0859.github.io/breaking-bad-cast/)
+
 # Usage
 
 ```
